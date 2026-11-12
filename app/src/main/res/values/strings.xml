@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MeteoDeník</string>
+    <string name="title_activity_detail_mesta">DetailMestaActivity</string>
+    <string name="teplota_format">%1$.1f °C</string>
+    <string name="teplota_chybi">Teplota není k dispozici</string>
+    <string name="poslat_zpravu">Zapsat záznam</string>
 </resources>
